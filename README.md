@@ -1,8 +1,6 @@
 # GE-DATALOGGER
 Capstone Project for GE Datalogger
 
-
-
 #### **<u>Resources</u>**
 
 if you are unfamiliar with Arduino programming or C this is a good place to start
@@ -27,17 +25,25 @@ this schematic is a simplified version of the protoytpe/production schematic. It
 
 ## ICs THAT USE UART
 
-
+USB connector to the Arduino Mini
 
 ## ICs THAT USE I2C
 
 #### Temperature and Humidity Sensor
 
+Address
+
 #### Accelerometer
+
+Address
 
 #### Hazardous Gas Sensors
 
+Address
+
 #### Battery Monitor
+
+Address
 
 
 
