@@ -23,7 +23,7 @@ on the site https://create.arduino.cc/ you can copy this code into the online ed
 
 this schematic is a simplified version of the protoytpe/production schematic. It allows for better visibility of ports and is a good representation for ports and protocols. 
 
-
+![fritzing](images/fritzing.png)
 
 ## ICs THAT USE UART
 
