@@ -11,11 +11,11 @@ https://create.arduino.cc/
 
  download the code from this GitHub repo here, and keep it as a **.zip** file
 
-![1608335119850](C:\Users\cawolfe\AppData\Roaming\Typora\typora-user-images\1608335119850.png)
+![GitHub](images/GitHub.png)
 
 on the site https://create.arduino.cc/ you can copy this code into the online editor seen here, use the upload button, and select the zip file you downloaded from this GitHub and select import. 
 
-![1608334757460](\Users\cawolfe\AppData\Roaming\Typora\typora-user-images\1608334757460.png)
+![ArduinoIDE](images/ArduinoIDE.png)
 
 
 
